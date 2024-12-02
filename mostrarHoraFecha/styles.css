@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  margin: 10rem;
+  color: white;
+  font-size: 30px;
+}
+
+div {
+  border: 1px solid gold;
+  margin: 10rem;
+}
